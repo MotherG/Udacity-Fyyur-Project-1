@@ -1,0 +1,11 @@
+babel==2.9.0
+flask-moment==0.11.0
+flask-wtf==0.14.3
+flask_sqlalchemy==2.4.4
+Flask==2.0.3
+Jinja2==3.0.0
+Werkzeug==2.0.0
+Flask-Migrate==3.1.0
+Mako==1.2.0 
+alembic==1.8.0
+dateutil==2.6.0
